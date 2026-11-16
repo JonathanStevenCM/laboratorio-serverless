@@ -1,0 +1,17 @@
+{
+    "nombre": "Jonathan Steven",
+    "apellido": "Colato Martínez",
+    "email": "stevnemartinez619@gmail.com",
+    "token": "7c8c2c07-e338-411e-a8ea-23da51fb1de4",
+    "fecha_utc": "2026-11-15T23:35:03.364744+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "7.3.4-1-cachyos",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "8c29aac4d7bc",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "b61421767869ce6841b91640e3526ec608343572e711b645eb9d0bddf8fc1bd0"
+}
